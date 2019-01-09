@@ -1,0 +1,15 @@
+D:\asp.net project\FinalPraksa\FinalPraksa\bin\Debug\netcoreapp2.2\FinalPraksa.deps.json
+D:\asp.net project\FinalPraksa\FinalPraksa\bin\Debug\netcoreapp2.2\FinalPraksa.runtimeconfig.json
+D:\asp.net project\FinalPraksa\FinalPraksa\bin\Debug\netcoreapp2.2\FinalPraksa.runtimeconfig.dev.json
+D:\asp.net project\FinalPraksa\FinalPraksa\bin\Debug\netcoreapp2.2\FinalPraksa.dll
+D:\asp.net project\FinalPraksa\FinalPraksa\bin\Debug\netcoreapp2.2\FinalPraksa.pdb
+D:\asp.net project\FinalPraksa\FinalPraksa\obj\Debug\netcoreapp2.2\FinalPraksa.csprojAssemblyReference.cache
+D:\asp.net project\FinalPraksa\FinalPraksa\obj\Debug\netcoreapp2.2\FinalPraksa.csproj.CoreCompileInputs.cache
+D:\asp.net project\FinalPraksa\FinalPraksa\obj\Debug\netcoreapp2.2\FinalPraksa.RazorAssemblyInfo.cache
+D:\asp.net project\FinalPraksa\FinalPraksa\obj\Debug\netcoreapp2.2\FinalPraksa.RazorAssemblyInfo.cs
+D:\asp.net project\FinalPraksa\FinalPraksa\obj\Debug\netcoreapp2.2\FinalPraksa.AssemblyInfoInputs.cache
+D:\asp.net project\FinalPraksa\FinalPraksa\obj\Debug\netcoreapp2.2\FinalPraksa.AssemblyInfo.cs
+D:\asp.net project\FinalPraksa\FinalPraksa\obj\Debug\netcoreapp2.2\FinalPraksa.RazorTargetAssemblyInfo.cache
+D:\asp.net project\FinalPraksa\FinalPraksa\obj\Debug\netcoreapp2.2\FinalPraksa.dll
+D:\asp.net project\FinalPraksa\FinalPraksa\obj\Debug\netcoreapp2.2\FinalPraksa.pdb
+D:\asp.net project\FinalPraksa\FinalPraksa\bin\Debug\netcoreapp2.2\FinalPraksa.xml
